@@ -1,3 +1,4 @@
+//connessione uno a uno
 import java.io.*;
 import java.net.*;
 
